@@ -1,1 +1,1 @@
-This the README file.md
+0x00. Shell, basics
